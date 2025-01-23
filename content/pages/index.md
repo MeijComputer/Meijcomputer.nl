@@ -138,7 +138,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: Hulp nodig? Ik help U Graag
+    title: Hulp nodig? Ik help U graag!
     form:
       type: FormBlock
       elementId: sign-up-form

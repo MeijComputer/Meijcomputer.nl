@@ -4,148 +4,156 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+  url: /images/123_shutterstock_205348522_computerhelp-scaled-e1695910594190.jpg
 sections:
-  - elementId: ''
+  - type: TextSection
     colors: colors-f
-    backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
+    variant: variant-a
+    title: MeijComputer.nl
+    subtitle: De thuis-expert in ICT
+    text: >
+      Computer Hulp aan Huis – Met aandacht voor de klant!
+
+
+      Heb je problemen met je computer? Of loopt je laptop traag en weet u niet
+      waarom? Geen zorgen, ik help u graag – gewoon bij u thuis, zonder onnodige
+      kosten!
+
+
+      Wat ik voor u kan doen:
+
+
+      *   PC of laptop reparaties (hardware en software)
+
+
+      *   Installeren van programma's of besturingssysteem
+
+
+      *   Opschonen en optimaliseren voor betere prestaties
+
+
+      *   Hulp bij internet- of netwerkproblemen
+
+
+      *   Advies voor upgrades of nieuwe hardware
+
+
+      Waarom?
+
+      Dit is mijn hobby! Ik vind het leuk om mensen te helpen met hun
+      computerproblemen en doe dit zonder winstoogmerk.
+
+
+      Geen geld? Geen probleem!
+
+      Heeft u niet het geld om een dure ict'er te betalen?
+
+      Dan bent u bij mij aan het juiste adres.
+
+      Als wij geen kosten maken, Maakt u ook geen Kosten.
+
+
+      Geen ruimte of tijd binnen uw woning? Geen probleem!
+
+      U kunt ook een afspraak maken voor service op onze locatie.
+
+
+      Interesse? Neem contact met me op voor een afspraak:
+
+      contact:
+
+
+      *   Max van der Meij -
+
+
+      *   06 83853062 -
+
+
+      *   m.vandermeij\@meijcomputer.nl -
+
+
+      Beschikbaar in Ede, Gelderland. Laat me weten wat u nodig hebt, dan kijk
+      ik hoe ik u kan helpen!
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: 'Projects'
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-28
-          - pb-48
+          - pb-28
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
+        textAlign: center
+      text:
+        textAlign: center
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/software-icon-png-29.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+        url: /images/text.jpeg
+      - type: ImageBlock
+        url: /images/R.png
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+    colors: colors-f
+    spacing: 91
+    columns: 3
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Hulp nodig? Ik help U graag!
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
-          label: First Name
+        - name: Naam
+          label: Naam
           hideLabel: true
-          placeholder: First Name
+          placeholder: Naam
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: lastName
-          label: Last Name
+        - name: Achternaam
+          label: Achternaam
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Achternaam
           isRequired: false
           width: 1/2
           type: TextFormControl
@@ -156,19 +164,14 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
+        - name: Adres
+          label: Adres
           hideLabel: true
-          placeholder: Address
+          placeholder: Adres
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Aanmelden
       styles:
         submitLabel:
           textAlign: center

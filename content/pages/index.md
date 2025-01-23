@@ -8,6 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+  url: /images/123_shutterstock_205348522_computerhelp-scaled-e1695910594190.jpg
 sections:
   - colors: colors-f
     type: FeaturedProjectsSection

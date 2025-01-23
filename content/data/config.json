@@ -14,7 +14,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "06-83853062",
+            "phoneNumber": "0683853062",
             "phoneAltText": "Telefoon nummer",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",

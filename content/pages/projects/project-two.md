@@ -4,7 +4,7 @@ title: Software
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: '- '
+description: '- Problemen oplossenInstallatieVirus verwijderinguitgebreide uitleg'
 featuredImage:
   type: ImageBlock
   url: /images/software-icon-png-29.jpg

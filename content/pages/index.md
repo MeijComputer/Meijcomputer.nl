@@ -15,13 +15,69 @@ sections:
     variant: variant-a
     title: MeijComputer.nl
     subtitle: De expert in ICT
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Computer Hulp aan Huis – Met aandacht voor de klant!
+
+
+      Heb je problemen met je computer? Of loopt je laptop traag en weet u niet
+      waarom? Geen zorgen, ik help u graag – gewoon bij u thuis, zonder onnodige
+      kosten!
+
+
+      Wat ik voor u kan doen:
+
+
+      *   PC of laptop reparaties (hardware en software)
+
+
+      *   Installeren van programma's of besturingssysteem
+
+
+      *   Opschonen en optimaliseren voor betere prestaties
+
+
+      *   Hulp bij internet- of netwerkproblemen
+
+
+      *   Advies voor upgrades of nieuwe hardware
+
+
+      Waarom?
+
+      Dit is mijn hobby! Ik vind het leuk om mensen te helpen met hun
+      computerproblemen en doe dit zonder winstoogmerk.
+
+
+      Geen geld? Geen probleem!
+
+      Heeft u niet het geld om een dure ict'er te betalen?
+
+      Dan bent u bij mij aan het juiste adres.
+
+      Als wij geen kosten maken, Maakt u ook geen Kosten.
+
+
+      Geen ruimte of tijd binnen uw woning? Geen probleem!
+
+      U kunt ook een afspraak maken voor service op onze locatie.
+
+
+      Interesse? Neem contact met me op voor een afspraak:
+
+      contact:
+
+
+      *   Max van der Meij -
+
+
+      *   06 83853062 -
+
+
+      *   m.vandermeij\@meijcomputer.nl -
+
+
+      Beschikbaar in Ede, Gelderland. Laat me weten wat u nodig hebt, dan kijk
+      ik hoe ik u kan helpen!
     elementId: ''
     styles:
       self:

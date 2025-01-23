@@ -32,5 +32,6 @@
                 ]
             }
         }
-    }
+    },
+    "favicon": "/images/R.png"
 }

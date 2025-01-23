@@ -153,7 +153,7 @@ sections:
         - name: Achternaam
           label: Achternaam
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Achternaam
           isRequired: false
           width: 1/2
           type: TextFormControl

@@ -17,11 +17,5 @@ media:
   url: /images/software-icon-png-29.jpg
   altText: Project image
 ---
-*   Problemen oplossen
 
-*   Installatie
-
-*   Virus verwijdering
-
-*   uitgebreide uitleg
 

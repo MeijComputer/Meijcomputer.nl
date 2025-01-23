@@ -115,7 +115,7 @@ sections:
         elementId: ''
         url: /images/text.jpeg
     colors: colors-f
-    spacing: 101
+    spacing: 91
     columns: 4
     aspectRatio: '4:3'
     showCaption: false

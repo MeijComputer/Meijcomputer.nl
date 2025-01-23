@@ -105,15 +105,15 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/R.png
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
         altText: Image two
         caption: Image two caption
         elementId: ''
         url: /images/text.jpeg
+      - type: ImageBlock
+        url: /images/R.png
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
     colors: colors-f
     spacing: 91
     columns: 3

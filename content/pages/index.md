@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: MeijComputer.nl
-    subtitle: De expert in ICT
+    subtitle: De thuis-expert in ICT
     text: >
       Computer Hulp aan Huis – Met aandacht voor de klant!
 

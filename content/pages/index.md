@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: MeijComputer.nl
-    subtitle: De vrijwilliger in ICT
+    subtitle: De expert in ICT
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo

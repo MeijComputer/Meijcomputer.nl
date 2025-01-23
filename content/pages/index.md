@@ -114,12 +114,6 @@ sections:
         caption: Image two caption
         elementId: ''
         url: /images/text.jpeg
-      - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
     colors: colors-f
     spacing: 16
     columns: 4

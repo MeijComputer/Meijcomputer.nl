@@ -110,7 +110,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/Schermopname_23-1-2025_153612_editor.drukwerknodig.nl.jpeg
         altText: Image two
         caption: Image two caption
         elementId: ''

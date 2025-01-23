@@ -146,7 +146,7 @@ sections:
         - name: Naam
           label: Naam
           hideLabel: true
-          placeholder: First Name
+          placeholder: Naam
           isRequired: true
           width: 1/2
           type: TextFormControl

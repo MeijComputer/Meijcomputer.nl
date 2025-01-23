@@ -115,7 +115,8 @@ sections:
         elementId: ''
         url: /images/text.jpeg
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: >-
+          /images/upgrade-of-software-black-icon-computer-system-update-silhouette-pictogram-download-process-icon-progress-of-upgrade-isolated-illustration-vector.jpg
         altText: Image four
         caption: Image four caption
         elementId: ''

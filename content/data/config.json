@@ -15,7 +15,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "0683853062",
-            "phoneAltText": "Telefoon nummer",
+            "phoneAltText": "",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",

@@ -116,7 +116,7 @@ sections:
         url: /images/text.jpeg
     colors: colors-f
     spacing: 91
-    columns: 4
+    columns: 2
     aspectRatio: '4:3'
     showCaption: false
     enableHover: true

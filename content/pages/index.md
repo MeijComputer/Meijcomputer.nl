@@ -167,7 +167,7 @@ sections:
         - name: Adres
           label: Adres
           hideLabel: true
-          placeholder: Address
+          placeholder: Adres
           isRequired: true
           width: 1/2
           type: TextFormControl

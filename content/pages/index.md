@@ -137,7 +137,8 @@ sections:
         textAlign: center
   - type: ContactSection
     title: Hulp nodig? Ik help u graag!
-    text: I'm look forward to hearing from you.
+    text: |
+      Ik kijk er naar uit om iets van u te horen
     form:
       type: FormBlock
       title: Title of the form

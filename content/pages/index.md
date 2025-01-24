@@ -136,7 +136,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ContactSection
-    title: Contact Me
+    title: Hulp nodig? Ik help u graag!
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock

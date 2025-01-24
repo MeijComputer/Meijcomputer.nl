@@ -161,7 +161,7 @@ sections:
           name: message
           label: Vertel hier meer
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Vertel hier meer
           width: full
           isRequired: true
       submitLabel: Send Message

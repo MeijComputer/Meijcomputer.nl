@@ -164,7 +164,7 @@ sections:
           placeholder: Vertel hier meer...
           width: full
           isRequired: true
-      submitLabel: Send Message
+      submitLabel: Verzenden
       elementId: contact-form
       styles:
         submitLabel:

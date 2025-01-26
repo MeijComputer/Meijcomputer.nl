@@ -136,64 +136,56 @@ sections:
       subtitle:
         textAlign: center
   - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: Hulp nodig? Ik help U graag!
+    title: Hulp nodig? Ik help u graag!
+    text: |
+      Ik kijk er naar uit om iets van u te horen
     form:
       type: FormBlock
-      elementId: sign-up-form
+      title: Title of the form
       fields:
-        - name: Naam
-          label: Naam
+        - type: TextFormControl
+          name: naam
+          label: naam
           hideLabel: true
-          placeholder: Naam
+          placeholder: Voornaam
+          width: 1/2
           isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: Achternaam
-          label: Achternaam
-          hideLabel: true
-          placeholder: Achternaam
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
+        - type: EmailFormControl
+          name: Email
+          label: Name
           hideLabel: true
           placeholder: Email
-          isRequired: true
           width: 1/2
-          type: EmailFormControl
-        - name: Adres
-          label: Adres
+          isRequired: true
+        - type: TextareaFormControl
+          name: message
+          label: Vertel hier meer
           hideLabel: true
-          placeholder: Adres
+          placeholder: Vertel hier meer...
+          width: full
           isRequired: true
-          width: 1/2
-          type: TextFormControl
-      submitLabel: Aanmelden
+      submitLabel: Verzenden
+      elementId: contact-form
       styles:
         submitLabel:
-          textAlign: center
+          textAlign: left
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pr-4
+          - pt-28
+          - pb-36
           - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: row
       title:
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
+        textAlign: center
 ---

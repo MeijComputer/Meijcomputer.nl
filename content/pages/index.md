@@ -149,7 +149,7 @@ sections:
           hideLabel: true
           placeholder: Voornaam
           width: 1/2
-          isRequired: 'true'
+          isRequired: true
         - type: EmailFormControl
           name: Email
           label: Name

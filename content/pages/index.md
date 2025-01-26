@@ -156,7 +156,7 @@ sections:
           hideLabel: true
           placeholder: Email
           width: 1/2
-          isRequired: 'true'
+          isRequired: true
         - type: TextareaFormControl
           name: message
           label: Vertel hier meer
